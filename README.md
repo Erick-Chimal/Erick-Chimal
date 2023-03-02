@@ -10,7 +10,7 @@
 - <b>EXSI VMWare</b>
   - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/WMWARE_EXSI_Raspberry_pi_4)
 - <b>C++ (Arduino One Project)</b>
-  - [Distance Sensor](https://github.com/Erick-Chimal/Distance_Sensor)
+  - [Distance Sensor](https://github.com/Erick-Chimal/Distance-Sensor)
 - <b >Python </b>
   - [100 Days 100 Projects In python]()
   
