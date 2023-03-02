@@ -5,17 +5,18 @@
 - <b> Active Directory <b>
   - [Active directory guide]()
 - <b>Docker</b>
-  - [Image Analysis Middleware]()
+  - [Flask Web Server]()
+  - [Bitwarden Password manager server]()
 - <b>EXSI VMWare</b>
   - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/WMWARE_EXSI_Raspberry_pi_4)
 - <b>C++ (Arduino One Project)</b>
   - [Distance Sensor](https://github.com/Erick-Chimal/Distance_Sensor)
-- <b>Python</b>
+- <b >Python </b>
   - [100 Days 100 Projects In python]()
   
 <b> 📜  Certifications </b>
   - [Certified in cybersecurity by (ISC)²](https://www.credly.com/badges/4b06ab5a-fb14-4c8b-bf32-2a47544c7407/public_url)
-  - [ Comptia security + -Pending]()
+  - [Comptia security+  -Pending]()
 <!-- <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -41,5 +42,5 @@
 Here are some ideas to get you started:
 -->
 <h2> </h2>
-  - 🔭 I’m currently in the process of acquiring an education in Computer Science from Arizona State University. I am passionate about utilizing my skills in  programming and application development to create innovative solutions for complex problems. As a student, I aim to gain an in-depth understanding of the principles of computer science and its applications. My goal is to become a highly-skilled computer scientist who can use my knowledge and expertise to contribute to the ever-evolving field of technology.
+  -  I’m currently in the process of acquiring an education in Computer Science from Arizona State University. I am passionate about utilizing my skills in programming and application development to create innovative solutions for complex problems. As a student, I aim to gain an in-depth understanding of the principles of computer science and its applications. My goal is to become a highly-skilled computer scientist who can use my knowledge and expertise to contribute to the ever-evolving field of technology.
 
