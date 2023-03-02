@@ -13,7 +13,7 @@
 - <b>Python</b>
   - [100 Days 100 Projects In python]()
   
-<b> Certifications </b>
+<b> 📜  Certifications </b>
   - [Certified in cybersecurity by (ISC)²](https://www.credly.com/badges/4b06ab5a-fb14-4c8b-bf32-2a47544c7407/public_url)
   - [ Comptia security + -Pending]()
 <!-- <h2>📺 Popular YouTube Videos</h2>
