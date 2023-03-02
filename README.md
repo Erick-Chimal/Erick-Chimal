@@ -2,17 +2,17 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b> Active Directory <b>
-  - [Active directory guide]()
-- <b>Docker</b>
-  - [Flask Web Server]()
-  - [Bitwarden Password manager server]()
-- <b>EXSI VMWare</b>
-  - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/WMWARE_EXSI_Raspberry_pi_4)
 - <b>C++ (Arduino One Project)</b>
   - [Distance Sensor](https://github.com/Erick-Chimal/Distance-Sensor)
+- <b>Docker</b>
+  - [Flask Web Server](https://github.com/Erick-Chimal/Flask-Web-Server)
+  - [Bitwarden Password manager server](https://github.com/Erick-Chimal/BitWarden-Docker-Container)
+- <b>EXSI VMWare</b>
+  - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
 - <b >Python </b>
-  - [100 Days 100 Projects In python]()
+  - [100 Days 100 Projects In python](https://github.com/Erick-Chimal/100-days-100-project-in-python)
+- <b> Active Directory <b>
+  - [Active directory guide]()
   
 <b> 📜  Certifications </b>
   - [Certified in cybersecurity by (ISC)²](https://www.credly.com/badges/4b06ab5a-fb14-4c8b-bf32-2a47544c7407/public_url)
