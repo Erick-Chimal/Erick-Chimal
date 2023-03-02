@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> Active Directory <b>
-  - []()
+  - [Active directory guide]()
 - <b>Docker</b>
   - [Image Analysis Middleware]()
 - <b>EXSI VMWare</b>
@@ -12,7 +12,10 @@
   - [Distance Sensor](https://github.com/Erick-Chimal/Distance_Sensor)
 - <b>Python</b>
   - [100 Days 100 Projects In python]()
-
+  
+<b> Certifications </b>
+  - [Certified in cybersecurity by (ISC)²](https://www.credly.com/badges/4b06ab5a-fb14-4c8b-bf32-2a47544c7407/public_url)
+  - [ Comptia security + -Pending]()
 <!-- <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
