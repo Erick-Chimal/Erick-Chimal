@@ -11,8 +11,6 @@
 - <b>Docker</b>
   - [Flask Web Server](https://github.com/Erick-Chimal/Flask-Web-Server)
   - [Bitwarden Password manager server](https://github.com/Erick-Chimal/BitWarden-Docker-Container)
-- <b>EXSI VMWare</b>
-  - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
 - <b> Active Directory <b>
   - [Active directory guide]()
   
@@ -44,5 +42,5 @@
 Here are some ideas to get you started:
 -->
 <h2> </h2>
-  -  I’m currently in the process of acquiring an education in Computer Science from Arizona State University. I am passionate about utilizing my skills in programming and application development to create innovative solutions for complex problems. As a student, I aim to gain an in-depth understanding of the principles of computer science and its applications. My goal is to become a highly-skilled computer scientist who can use my knowledge and expertise to contribute to the ever-evolving field of technology.
+I’m currently in the process of acquiring a Bachelor's degree in Computer Science from Arizona State University. I am passionate about utilizing my skills in programming and application development to create innovative solutions for complex problems. As a student, I aim to gain an in-depth understanding of the principles of computer science and its applications. My goal is to become a highly-skilled computer scientist who can use my knowledge and expertise to contribute to the ever-evolving field of technology.
 
