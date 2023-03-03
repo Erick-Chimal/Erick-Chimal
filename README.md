@@ -4,19 +4,21 @@
 
 - <b>C++ (Arduino One Project)</b>
   - [Distance Sensor](https://github.com/Erick-Chimal/Distance-Sensor)
+- <b >Python </b>
+  - [100 Days 100 Projects In python](https://github.com/Erick-Chimal/100-days-100-project-in-python)
+- <b>EXSI VMWare</b>
+  - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
 - <b>Docker</b>
   - [Flask Web Server](https://github.com/Erick-Chimal/Flask-Web-Server)
   - [Bitwarden Password manager server](https://github.com/Erick-Chimal/BitWarden-Docker-Container)
 - <b>EXSI VMWare</b>
   - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
-- <b >Python </b>
-  - [100 Days 100 Projects In python](https://github.com/Erick-Chimal/100-days-100-project-in-python)
 - <b> Active Directory <b>
   - [Active directory guide]()
   
 <b> 📜  Certifications </b>
   - [Certified in cybersecurity by (ISC)²](https://www.credly.com/badges/4b06ab5a-fb14-4c8b-bf32-2a47544c7407/public_url)
-  - [Comptia security+  -Pending]()
+  - [Comptia security+  -Pending Voucher]()
 <!-- <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
