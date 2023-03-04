@@ -6,6 +6,7 @@
   - [Distance Sensor](https://github.com/Erick-Chimal/Distance-Sensor)
 - <b >Python </b>
   - [100 Days 100 Projects In python](https://github.com/Erick-Chimal/100-days-100-project-in-python)
+  - [HTB Academy Intro to python3](https://academy.hackthebox.com/achievement/515854/88)
 - <b>EXSI VMWare</b>
   - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
 - <b>Docker</b>
