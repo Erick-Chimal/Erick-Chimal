@@ -18,14 +18,13 @@
 <b> 📜  Certifications </b>
   - [Certified in cybersecurity by (ISC)²](https://www.credly.com/badges/4b06ab5a-fb14-4c8b-bf32-2a47544c7407/public_url)
   - [Comptia security+  -Pending Voucher]()
-<!-- <h2>📺 Popular YouTube Videos</h2>
+  
+<h2>Hack the Box rank</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
- -->
+[<img align="left" alt="ErickChimal | HTB" width="22px" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" />][htb]
+ 
+[htb]: https://app.hackthebox.com/profile/1264204
+<br />
 <h2> Connect with me:</h2>
 
 <!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -41,6 +40,7 @@
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<h2> </h2>
+<h2></h2>
+<br />
 I’m currently in the process of acquiring a Bachelor's degree in Computer Science from Arizona State University. I am passionate about utilizing my skills in programming and application development to create innovative solutions for complex problems. As a student, I aim to gain an in-depth understanding of the principles of computer science and its applications. My goal is to become a highly-skilled computer scientist who can use my knowledge and expertise to contribute to the ever-evolving field of technology.
 
