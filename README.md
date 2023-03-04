@@ -14,6 +14,7 @@
   - [Bitwarden Password manager server](https://github.com/Erick-Chimal/BitWarden-Docker-Container)
 - <b> Active Directory <b>
   - [Active directory](https://academy.hackthebox.com/achievement/515854/74)
+  - [Guide](https://github.com/Erick-Chimal/Active-Directory-HTB-academy)
   
 <b> 📜  Certifications </b>
   - [Certified in cybersecurity by (ISC)²](https://www.credly.com/badges/4b06ab5a-fb14-4c8b-bf32-2a47544c7407/public_url)
