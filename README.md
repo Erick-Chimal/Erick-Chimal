@@ -6,7 +6,7 @@
   - [Distance Sensor](https://github.com/Erick-Chimal/Distance-Sensor)
 - <b >Python </b>
   - [100 Days 100 Projects In python](https://github.com/Erick-Chimal/100-days-100-project-in-python)
-  - [HTB Academy Intro to python3](https://academy.hackthebox.com/achievement/515854/88)
+  - [HTB Academy Intro to python3](https://github.com/Erick-Chimal/HTB-Academy-Python-Scripts)
 - <b>EXSI VMWare</b>
   - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
 - <b>Docker</b>
@@ -29,15 +29,14 @@
 <h2> Connect with me:</h2>
 
 <!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<!-- [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="ErickChimal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--[<img align="left" alt="ErickChimal | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Htb_logo.svg" />][HTB]
 <!-- [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-<!-- [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+<!-- [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/ -->
 [linkedin]: https://www.linkedin.com/in/erick-chimal-566a59191/
-
+<!-- [HTB]: https://academy.hackthebox.com/achievement/515854/88 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
