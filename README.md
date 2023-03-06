@@ -7,6 +7,9 @@
 - <b >Python </b>
   - [100 Days 100 Projects In python](https://github.com/Erick-Chimal/100-days-100-project-in-python)
   - [HTB Academy Intro to python3](https://github.com/Erick-Chimal/HTB-Academy-Python-Scripts)
+- <b>Structured Query Language</b>
+  - [SQL Injection Fundamentals](https://github.com/Erick-Chimal/SQL-Injection)
+    - [Proof of Completiom](https://academy.hackthebox.com/achievement/515854/33)
 - <b>EXSI VMWare</b>
   - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
 - <b>Docker</b>
@@ -14,7 +17,7 @@
   - [Bitwarden Password manager server](https://github.com/Erick-Chimal/BitWarden-Docker-Container)
 - <b> Active Directory <b>
   - [Active directory](https://academy.hackthebox.com/achievement/515854/74)
-  - [Guide](https://github.com/Erick-Chimal/Active-Directory-HTB-academy)
+    - [Guide](https://github.com/Erick-Chimal/Active-Directory-HTB-academy)
   
 <b> 📜  Certifications </b>
   - [Certified in cybersecurity by (ISC)²](https://www.credly.com/badges/4b06ab5a-fb14-4c8b-bf32-2a47544c7407/public_url)
