@@ -1,4 +1,4 @@
-<h1>Hi, I'm Erick! <br/><a href="https://github.com/Erick-Chimal">Programmer</a>, <a href="https://www.linkedin.com/in/erick-chimal-566a59191/]">Cybersecurity</a>, <a href="https://www.youtube.com/">Videos</a></h1>
+<h1>Hi, I'm Erick! <br/><a href="https://github.com/Erick-Chimal">Programmer</a>, <a href="https://www.linkedin.com/in/erick-chimal-566a59191/]">Cybersecurity</a>, <a href="https://www.youtube.com/@erickchimal-ds5wh">Videos</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
