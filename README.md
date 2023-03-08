@@ -16,7 +16,7 @@
   - [Flask Web Server](https://github.com/Erick-Chimal/Flask-Web-Server)
   - [Bitwarden Password manager server](https://github.com/Erick-Chimal/BitWarden-Docker-Container)
 - <b> Azure Active Directory </b>
-  - [Azure AD Deployment and administration]()
+  - [Azure AD Deployment and administration Video](https://youtu.be/Vjk2fJ26r80)
 - <b> Active Directory <b>
   - [Active directory](https://academy.hackthebox.com/achievement/515854/74)
     - [Guide](https://github.com/Erick-Chimal/Active-Directory-HTB-academy)
