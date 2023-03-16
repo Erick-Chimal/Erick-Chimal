@@ -24,6 +24,7 @@
     - [Guide](https://github.com/Erick-Chimal/Active-Directory-HTB-academy)
   
 <b> 📜  Certifications </b>
+  - [ASU Cybersecurity program](https://api.badgr.io/public/assertions/dfCQzOYJQ828vUu-Wvdclg?identity__email=erickchimal1%40gmail.com)
   - [Certified in cybersecurity by (ISC)²](https://www.credly.com/badges/4b06ab5a-fb14-4c8b-bf32-2a47544c7407/public_url)
   - [Comptia security+  -Pending Voucher]()
   
