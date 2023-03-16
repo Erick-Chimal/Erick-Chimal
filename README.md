@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Pimox<b/>
+  - [My Home Lab](https://github.com/Erick-Chimal/HomeLab)
 - <b>C++ (Arduino One Project)</b>
   - [Distance Sensor](https://github.com/Erick-Chimal/Distance-Sensor)
 - <b >Python </b>
