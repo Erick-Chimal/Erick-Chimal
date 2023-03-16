@@ -27,24 +27,18 @@
   - [ASU Cybersecurity program](https://api.badgr.io/public/assertions/dfCQzOYJQ828vUu-Wvdclg?identity__email=erickchimal1%40gmail.com)
   - [Certified in cybersecurity by (ISC)²](https://www.credly.com/badges/4b06ab5a-fb14-4c8b-bf32-2a47544c7407/public_url)
   - [Comptia security+  -Pending Voucher]()
-  
-<h2>Hack the Box rank</h2>
 
-[<img align="left" alt="ErickChimal | HTB" width="22px" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" />][htb]
- 
-[htb]: https://app.hackthebox.com/profile/1264204
-<br />
 <h2> Connect with me:</h2>
 
-<!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="ErickChimal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!--[<img align="left" alt="ErickChimal | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Htb_logo.svg" />][HTB]
+[<img align="left" alt="ErickChimal | HTB" width="30px" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" />][htb]
+[<img align="left" alt="ErickChimal | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ErickChimal | HTB" width="30px" src="https://user-images.githubusercontent.com/125524019/225678481-0024c068-8603-4114-b2a8-db5d9eebb88a.png" />][ASU]
 <!-- [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-<!-- [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/ -->
+[htb]: https://app.hackthebox.com/profile/1264204
+[ASU]: https://api.badgr.io/public/assertions/dfCQzOYJQ828vUu-Wvdclg?identity__email=erickchimal1%40gmail.com
 [linkedin]: https://www.linkedin.com/in/erick-chimal-566a59191/
-<!-- [HTB]: https://academy.hackthebox.com/achievement/515854/88 
+<!-- [HTB]: https://academy.hackthebox.com/achievement/515854/88 -->
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
