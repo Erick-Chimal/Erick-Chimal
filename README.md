@@ -1,6 +1,6 @@
 <h1>Hi, I'm Erick! <br/><a href="https://github.com/Erick-Chimal">Programmer</a>, <a href="https://www.linkedin.com/in/erick-chimal-566a59191/]">Cybersecurity</a>, <a href="https://www.youtube.com/@erickchimal-ds5wh">Videos</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>My Projects:</h2>
 
 - <b>Pimox<b/>
   - [My Home Lab](https://github.com/Erick-Chimal/HomeLab)
@@ -11,7 +11,6 @@
   - [HTB Academy Intro to python3](https://github.com/Erick-Chimal/HTB-Academy-Python-Scripts)
 - <b>Structured Query Language</b>
   - [SQL Injection Fundamentals](https://github.com/Erick-Chimal/SQL-Injection)
- <!--   - [Proof of Completion](https://academy.hackthebox.com/achievement/515854/33) -->
 - <b>EXSI VMWare</b>
   - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
 - <b>Docker</b>
