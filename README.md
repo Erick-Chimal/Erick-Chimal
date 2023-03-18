@@ -11,7 +11,7 @@
   - [HTB Academy Intro to python3](https://github.com/Erick-Chimal/HTB-Academy-Python-Scripts)
 - <b>Structured Query Language</b>
   - [SQL Injection Fundamentals](https://github.com/Erick-Chimal/SQL-Injection)
-    - [Proof of Completion](https://academy.hackthebox.com/achievement/515854/33)
+ <!--   - [Proof of Completion](https://academy.hackthebox.com/achievement/515854/33) -->
 - <b>EXSI VMWare</b>
   - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
 - <b>Docker</b>
