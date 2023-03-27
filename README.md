@@ -12,16 +12,15 @@
   - [HTB Academy Intro to python3](https://github.com/Erick-Chimal/HTB-Academy-Python-Scripts)
 - <b>Structured Query Language</b>
   - [SQL Injection Fundamentals](https://github.com/Erick-Chimal/SQL-Injection)
-- <b>EXSI VMWare</b>
+<!--- <b>EXSI VMWare</b>
   - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
 - <b>Docker</b>
   - [Flask Web Server](https://github.com/Erick-Chimal/Flask-Web-Server)
-  - [Bitwarden Password manager server](https://github.com/Erick-Chimal/BitWarden-Docker-Container)
-- <b> Azure Active Directory </b>
-  - [Azure AD Deployment and administration Video](https://youtu.be/Vjk2fJ26r80)
+  - [Bitwarden Password manager server](https://github.com/Erick-Chimal/BitWarden-Docker-Container) -->
 - <b> Active Directory <b>
   - [Active directory](https://academy.hackthebox.com/achievement/515854/74)
     - [Guide](https://github.com/Erick-Chimal/Active-Directory-HTB-academy)
+  - [Azure AD Deployment and administration Video](https://youtu.be/Vjk2fJ26r80)
   
 <b> 📜  Certifications </b>
   - [ASU Cybersecurity program](https://api.badgr.io/public/assertions/dfCQzOYJQ828vUu-Wvdclg?identity__email=erickchimal1%40gmail.com)
