@@ -12,11 +12,6 @@
   - [HTB Academy Intro to python3](https://github.com/Erick-Chimal/HTB-Academy-Python-Scripts)
 - <b>Structured Query Language</b>
   - [SQL Injection Fundamentals](https://github.com/Erick-Chimal/SQL-Injection)
-<!--- <b>EXSI VMWare</b>
-  - [Installing & Configuring VMWare EXSI on a raspberry pi 4](https://github.com/Erick-Chimal/VMware-exsi-on-a-raspberry-pi)
-- <b>Docker</b>
-  - [Flask Web Server](https://github.com/Erick-Chimal/Flask-Web-Server)
-  - [Bitwarden Password manager server](https://github.com/Erick-Chimal/BitWarden-Docker-Container) -->
 - <b> Active Directory <b>
   - [Active directory](https://academy.hackthebox.com/achievement/515854/74)
     - [Guide](https://github.com/Erick-Chimal/Active-Directory-HTB-academy)
@@ -32,16 +27,12 @@
 [<img align="left" alt="ErickChimal | HTB" width="30px" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" />][htb]
 [<img align="left" alt="ErickChimal | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ErickChimal | HTB" width="30px" src="https://user-images.githubusercontent.com/125524019/225678481-0024c068-8603-4114-b2a8-db5d9eebb88a.png" />][ASU]
-<!-- [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
+  
 [htb]: https://app.hackthebox.com/profile/1264204
 [ASU]: https://api.badgr.io/public/assertions/dfCQzOYJQ828vUu-Wvdclg?identity__email=erickchimal1%40gmail.com
 [linkedin]: https://www.linkedin.com/in/erick-chimal-566a59191/
 <!-- [HTB]: https://academy.hackthebox.com/achievement/515854/88 -->
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+
 <h2></h2>
 <br />
 I’m currently in the process of acquiring a Bachelor's degree in Computer Science from Arizona State University. I am passionate about utilizing my skills in programming and application development to create innovative solutions for complex problems. As a student, I aim to gain an in-depth understanding of the principles of computer science and its applications. My goal is to become a highly-skilled computer scientist who can use my knowledge and expertise to contribute to the ever-evolving field of technology.
