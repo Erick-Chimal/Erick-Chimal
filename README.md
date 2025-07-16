@@ -30,6 +30,7 @@
   
 [htb]: https://app.hackthebox.com/profile/1264204
 [ASU]: https://api.badgr.io/public/assertions/dfCQzOYJQ828vUu-Wvdclg?identity__email=erickchimal1%40gmail.com
+[Linkedin]: https://www.linkedin.com/in/erick-chimal-566a59191
 <!-- [HTB]: https://academy.hackthebox.com/achievement/515854/88 -->
 
 <h2></h2>
